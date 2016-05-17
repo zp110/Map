@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Rfile {
 
 	double[][] array;
-	double threadhold = 0
+    double threadhold = 0;
 
 	
 	//303602
